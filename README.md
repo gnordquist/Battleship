@@ -1,2 +1,2 @@
 ### Battleship
-An emulation of the classic board game Battleship.
+An emulation of one of my favorite classic board games, Battleship.
